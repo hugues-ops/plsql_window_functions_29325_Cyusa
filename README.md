@@ -2,7 +2,7 @@
 #SQL Joins and windows functions assignment
 
 #Business Problem
-
+Analyze patient visits, Doctor's schedules create efficient appointment management.
 #Schema and ER Diagram
 
 #Join Queries

@@ -1,19 +1,19 @@
 # plsql_window_functions_29325_Cyusa
-##SQL Joins and windows functions assignment
+#SQL Joins and windows functions assignment
 
-##Business Problem
+#Business Problem
 
-##Schema and ER Diagram
+#Schema and ER Diagram
 
-##Join Queries
+#Join Queries
 
-##Window Function Queries
+#Window Function Queries
 
-##Key insights
+#Key insights
 
-##References
+#References
 
-##Integrity Statement
+#Integrity Statement
 
-##Selected Screenshot
+#Selected Screenshot
 

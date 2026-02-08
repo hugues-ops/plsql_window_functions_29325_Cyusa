@@ -3,7 +3,9 @@
 
 #Business Problem:
 "A retail e-commerce company operating in multiple regions wants to analyze sales performance. 
+
 Department: Sales & Business Intelligence 
+
 Industry: Retail / E-commerce."
 
 #Schema and ER Diagram
